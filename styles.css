@@ -1,1 +1,12 @@
 /* your code */
+table{
+    border-radius: 5px;
+    border:solid 1px lightgray;
+	text-align:left;
+	width:80%;
+	margin:10px;
+}
+thead, th{  
+    background: #215A8E;
+    color: #FDFDFE;
+}
